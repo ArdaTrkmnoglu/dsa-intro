@@ -1,6 +1,6 @@
 # dsa-intro
 
-This folder includes some DSA introductory files in Java, for educational purposes. 
+This folder consists of some DSA introductory files in Java, for educational purposes. 
 
 ## I love Ayda Aytimur. 
 
