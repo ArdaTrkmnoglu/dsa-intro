@@ -1,4 +1,4 @@
-package ArdaProjects.DSA_files;
+package dsa_intro.DSA_files;
 import java.util.Stack;             // Stack: Last-in First-out
 
 public class stacks {

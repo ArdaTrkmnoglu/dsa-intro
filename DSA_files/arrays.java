@@ -1,4 +1,4 @@
-package ArdaProjects.DSA_files;
+package dsa_intro.DSA_files;
 
 public class arrays {
 

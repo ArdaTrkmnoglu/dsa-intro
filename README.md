@@ -1,5 +1,13 @@
+# dsa-intro
+
+This folder includes some DSA introductory files in Java. 
+
+For educational purposes. 
+---
+
 # ArdaProjects
 
-* Ayda Aytimur'u çok seviyorum
+* I love Ayda Aytimur. 
 
-❤️ Ayda'ya deli gibi aşığım 
+❤️ I love her very much, and this repository was devoted to Ayda. 
+---
